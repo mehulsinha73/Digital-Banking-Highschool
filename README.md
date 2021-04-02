@@ -4,15 +4,39 @@ This is a digital banking application made in highschool by me and my friends. T
 
 ## Images:
 
-![Image1](../master/images/billpayment summary.png)
-![Image2](../master/images/billpayment.png)
-![Image3](../master/images/credit card final statement.png)
-![Image4](../master/images/credit card.png)
-![Image5](../master/images/funds transfer statement.png)
-![Image6](../master/images/funds transfer.png)
-![Image7](../master/images/input error.png)
-![Image8](../master/images/loan request.png)
-![Image9](../master/images/loan statement.png)
-![Image10](../master/images/logout screen.png)
-![Image11](../master/images/open page(after keyin success).png)
-![Image12](../master/images/open page.png)
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/billpayment%20summary.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/billpayment.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/credit%20card%20final%20statement.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/credit%20card.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/funds%20transfer%20statement.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/funds%20transfer.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/input%20error.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/loan%20request.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/loan%20statement.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/logout%20screen.png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/open%20page(after%20keyin%20success).png"><br><br>
+</div>
+<div align="center">
+  <img src="https://github.com/mehulsinha73/Digital-Banking-Highschool/blob/main/images/open%20page.png"><br><br>
+</div>
